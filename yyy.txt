@@ -1,0 +1,12 @@
+天天都需要你的爱！
+
+
+
+
+
+
+void main()
+{
+	std::cout << " hello world" << endl;
+
+}
